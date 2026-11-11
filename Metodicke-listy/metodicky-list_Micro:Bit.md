@@ -104,11 +104,7 @@ Micro:bit umožňuje generovat náhodná čísla, což je klíčová součást t
 
 Tento kód vygeneruje náhodné číslo od 0 do 6 a následně zobrazí šipku, která odpovídá tomuto číslu. 
 
-<figure>
-  <img width="418" height="112" alt="Generování náhodného úkolu" src="https://github.com/user-attachments/assets/48b9b467-0cfe-4eb1-b2ca-c0a0cf87d556" />
-  <figcaption>Generování náhodného úkolu</figcaption>
-</figure>
-
+<img width="418" height="112" alt="Generování náhodného úkolu" src="https://github.com/user-attachments/assets/48b9b467-0cfe-4eb1-b2ca-c0a0cf87d556" />
 
 #### **Podmínky a rozhodování** 
 
