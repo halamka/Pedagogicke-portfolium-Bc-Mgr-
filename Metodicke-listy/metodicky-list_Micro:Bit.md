@@ -4,7 +4,7 @@ Pedagogická fakulta
 
 Katedra technické a informační výchovy 
 
-## **Josef Halamka** 
+**Josef Halamka** 
 
 **Metodický list** 
 
