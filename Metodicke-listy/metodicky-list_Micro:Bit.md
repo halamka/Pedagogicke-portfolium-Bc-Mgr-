@@ -8,7 +8,7 @@ Katedra technické a informační výchovy
 
 **Metodický list** 
 
-##**Programování postřehové hry pro Micro:bit** 
+## **Programování postřehové hry pro Micro:bit** 
 
 
 |**Předmět**|Informatika|
