@@ -1,4 +1,4 @@
-# UNIVERZITA PALACKÉHO V OLOMOUCI 
+## UNIVERZITA PALACKÉHO V OLOMOUCI 
 
 Pedagogická fakulta 
 
@@ -6,13 +6,10 @@ Katedra technické a informační výchovy
 
 ## **Josef Halamka** 
 
-2. ročník 
+**Metodický list** 
 
-**<mark>Metodický list</mark>** 
+**Programování postřehové hry pro Micro:bit** 
 
-**<mark>Programování postřehové hry pro Micro:bit</mark>** 
-
-Olomouc 
 
 |**Předmět**|Informatika|
 |---|---|
@@ -21,7 +18,7 @@ Olomouc
 |**Téma**|Programování postřehové hry pro Micro:bit|
 |**Klíčová slova**|Micro:bit, postřehová hra, programování, skóre,<br>životy, gesto, proměnné|
 |**Pomůcky**|Micro:bit, počítače s přístupem k internetu, editor<br>MakeCode, USB kabely|
-|**Cíle**|<br>Žák porozumí základnímu principu<br>programování na platformě Micro:bit.<br><br>Žák pochopí funkce pro zpracování gest a<br>tlačítek na Micro:bitu.<br><br>Žák správně používá editor MakeCode nebo<br>Python k vytváření a úpravám kódu.<br><br>Žák vysvětlí logiku hry a naprogramuje základní<br>strukturu postřehové hry.|
+|**Cíle**|<br>Žák porozumí základnímu principu<br>programování na platformě Micro:bit.<br><br>Žák pochopí funkce pro zpracování gest a<br>tlačítek na Micro:bitu.<br><br>Žák správně používá editor MakeCode nebo<br>Python k vytváření a úpravám kódu.<br><br>Žák vysvětlí logiku hry a naprogramuje základní<br>strukturu postřehové hry.|
 
 
 
@@ -109,10 +106,7 @@ Tento kód vygeneruje náhodné číslo od 0 do 6 a následně zobrazí šipku, 
 
 
 
-<!-- Start of picture text -->
-nastav ukol + na (néhodné éislo od EP ao @) «~- @<br>uke Sipku  ukol ©<br>éekej delay ~ )ms<br><!-- End of picture text -->
-
-_Generování náhodného úkolu_ 
+<img width="418" height="112" alt="Generování náhodného úkolu" src="https://github.com/user-attachments/assets/48b9b467-0cfe-4eb1-b2ca-c0a0cf87d556" />
 
 #### **Podmínky a rozhodování** 
 
