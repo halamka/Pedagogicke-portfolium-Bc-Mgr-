@@ -112,23 +112,15 @@ V každém kole hráč provede nějaké gesto nebo stiskne tlačítko. Program p
 
 Pokud hráč správně reaguje na zobrazený úkol (např. nakloní Micro:bit správným směrem), jeho skóre se zvýší o 1. Pokud udělá chybu, ztratí život. 
 
+<img width="267" height="211" alt="Podmínka když" src="https://github.com/user-attachments/assets/e864fa60-817f-4a2b-97e3-4d7035919674" />
 
-
-<!-- Start of picture text -->
-kdyz ukol ¥ ev vstup ¥ tak<br>zméi skore ¥ o oe<br>ukaZ ikonu 4" ©<br>jinak (S)<br>zméii zivoty ¥ 0 e<br>ukazZ ikonu at oa<br><!-- End of picture text -->
-
-_Podmínka když_ 
 
 #### **Zobrazení výsledků** 
 
 Po každém kole se na displeji Microbitu zobrazí buď ikona **fajfky** (úspěch) nebo **křížku** (chyba). Když hráči dojdou životy, hra končí a na displeji se zobrazí **smutný obličej** a konečné skóre. 
 
+<img width="298" height="257" alt="Zobrazení konečného skóre" src="https://github.com/user-attachments/assets/ed418de6-f384-4a87-8c44-75e83c1da0ff" />
 
-
-<!-- Start of picture text -->
-ukaz ikonu mee)abe ’<br>cekej delay ~ ms<br>prerus<br>zobraz Cislo skore v<br><!-- End of picture text -->
-
-_Zobrazení konečného skóre_ 
 
 #### **Vylepšení hry** 
 
@@ -142,14 +134,10 @@ Pro rozšíření hry mohou studenti přidat další prvky, jako jsou:
 
 ### **Základní program** 
 
+<img width="453" height="524" alt="Základní program postřehové hry" src="https://github.com/user-attachments/assets/eb958a9a-43e2-423e-b45d-c3e7295e2a3a" />
 
+### **Příklad vylepšeného programu**
 
-<!-- Start of picture text -->
-oi starta<br>vai obrazova<br>BE Sip, wo nastay vstup > oa @<br>sara ©<br>iat itom "ee"+<br>®<br>Soo.<br>sina ©<br>kad tho 2 =<br>®<br><!-- End of picture text -->
-
-_Základní program postřehové hry_ 
-
-### **Příklad vylepšeného programu** 
 
 **1. Přidání tlačítek jako další vstupy** 
 
@@ -170,9 +158,5 @@ _Základní program postřehové hry_
 - Na konci hry se zobrazí dosažené skóre, poté se hra automaticky resetuje, což umožňuje opakování pokusů bez ručního 
 
 
-
-<!-- Start of picture text -->
-pei stisknuts taditka AB<br>ae<br>douad (vet * a @® wymat obrazovin<br>oats st<br>wma? obrazovku<br>ka? Sipkay ukot +<br>Fi potybu je detekovin nsielon vpravo = > _<br>PFI polybu je loge atozeno natoru © feke}_ delay ~ )ms<br>Rete<br>ctay~ \as<br>pF potyou<br>Je detekovén ndkion vievo© ®<br>pit stishnuts t1agitka Ay ee an<br>ziti xivotys 0 @®<br>pH stistoutf taaditea B © vat thon =<br>Sinak [o}<br>ak ikonw 32, ><br>eke}<br>cetay~ Je<br>®<br>vane obrazovke<br>worn tot ED<br>zobraz Eislo store +<br>tse) Oo<br>resetuj<br><!-- End of picture text -->
-
-_Vylepšený program postřehové hry_ 
+<img width="530" height="967" alt="Vylepšený program postřehové hry" src="https://github.com/user-attachments/assets/903a4648-8f84-43a6-aad7-d3adaa5ce06f" />
 
